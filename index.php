@@ -10,5 +10,5 @@
 		<script type="text/javascript" src="js/main.js"></script>
 	</body>
 
-	<h3>My dev site</h3>
+	<h3>My dev site<h3>
 </html>

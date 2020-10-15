@@ -68,7 +68,7 @@
 
     <section class="features-section js-features-section" id="features">
       <div class="row">
-        <h2>Olá. Eu sou Roberto. Prazer em conhecê-lo eeeeee.</h2>
+        <h2>Olá. Eu sou Roberto. Prazer em conhecê-lo. Worked</h2>
         <p class="long-copy">
         Eu sou autodidata. Moro no Rio de janeiro, Brasil. Fui introduzido ao mundo da programação em 2012, através do Minecraft e o seu glorioso mundo de blocos. Desde então sou apaixonado por resolver problemas computacionais.<br />
         </p>

@@ -56,7 +56,7 @@
         </div>
       </nav>
       <div class="hero-text-box">
-        <h1 class="name__title">Eu sou Roberto Paes</h1>
+        <h1 class="name__title">Eu sou Roberto Paes teste</h1>
         <p class="name__subtitle">Um <span>desenvolvedor</span> aspirante</p>
     
         <a class="btn btn-full" href="#portfolio-section">Veja meu trabalho</a>
@@ -68,7 +68,7 @@
 
     <section class="features-section js-features-section" id="features">
       <div class="row">
-        <h2>Olá. Eu sou Roberto. Prazer em conhecê-lo. Worked</h2>
+        <h2>Olá. Eu sou Roberto. Prazer em conhecê-lo.</h2>
         <p class="long-copy">
         Eu sou autodidata. Moro no Rio de janeiro, Brasil. Fui introduzido ao mundo da programação em 2012, através do Minecraft e o seu glorioso mundo de blocos. Desde então sou apaixonado por resolver problemas computacionais.<br />
         </p>
@@ -103,7 +103,9 @@
           <ion-icon class="feature-icons" name="school"></ion-icon>
           <h3 class="about-me-title">Eterno Aprendiz</h3>
           <p>
-         Estou sempre disposto a ouvir.  Ser <span class="quote">desenvolvedor</span> significa se reinventar sempre que for necessário. Isso inclui sempre estar disposto a aprender algo novo.  
+         Estou sempre disposto a ouvir.  Ser <span class="quote">desenvolvedor</span> significa se reinventar sempre que for necessário. Isso inclui sempre estar disposto a aprender algo novo.
+            
+              
           </p>
         </div>
       </div>
@@ -191,7 +193,7 @@
             <figure>
               <img
                 src="./resources/images/artgraphic.png"
-                title="Display Buttons Portfólio"
+                title="Display Buttons App"
                 alt="display buttons"
               />
             </figure>

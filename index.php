@@ -103,9 +103,7 @@
           <ion-icon class="feature-icons" name="school"></ion-icon>
           <h3 class="about-me-title">Eterno Aprendiz</h3>
           <p>
-         Estou sempre disposto a ouvir.  Ser <span class="quote">desenvolvedor</span> significa se reinventar sempre que for necessário. Isso inclui sempre estar disposto a aprender algo novo.
-            
-              
+         Estou sempre disposto a ouvir.  Ser <span class="quote">desenvolvedor</span> significa se reinventar sempre que for necessário. Isso inclui sempre estar disposto a aprender algo novo.  
           </p>
         </div>
       </div>
@@ -193,7 +191,7 @@
             <figure>
               <img
                 src="./resources/images/artgraphic.png"
-                title="Display Buttons App"
+                title="Display Buttons Portfólio"
                 alt="display buttons"
               />
             </figure>

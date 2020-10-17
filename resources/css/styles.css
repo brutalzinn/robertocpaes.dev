@@ -1,9 +1,9 @@
 /* fonts
     font-family: 'Lato', sans-serif;
     orange color
-    #e67e22
+    #22cfe6
     bright color used for hover effects
-    #d35400
+    #22cfe6
 */
 
 /* ------------------------------------------------------------ */
@@ -129,7 +129,7 @@ h2::after {
 
 .btn-ghost:link,
 .btn-ghost:visited {
-  color: #e67e22;
+  color: #22cfe6;
 }
 
 .btn:hover,
@@ -156,7 +156,7 @@ a:link,
 a:visited {
   color: #22cfe6c5;
   text-decoration: none;
-  /* border-bottom: 1px solid #e67e22; */
+  /* border-bottom: 1px solid #22cfe6; */
   padding-bottom: 1px;
   /* -webkit-transition: border-bottom 0.2s, color 0.2s;
   transition: border-bottom 0.2s, color 0.2s; */
@@ -252,7 +252,7 @@ header {
 
 .main-nav li > a:hover,
 .main-nav li > a:active {
-  border-bottom: 2px solid #e67e22;
+  border-bottom: 2px solid #22cfe6;
 }
 
 .mobile-nav-icon {
@@ -479,7 +479,7 @@ textarea {
   text-decoration: none;
   font-weight: 300;
   border-radius: 200px;
-  border: 1px solid #e67e22;
+  border: 1px solid #22cfe6;
   -webkit-transition: background-color 0.2s, border 0.2s, color 0.2s;
   transition: background-color 0.2s, border 0.2s, color 0.2s;
   cursor: pointer;
@@ -488,19 +488,19 @@ textarea {
 .resume-btn-full:link,
 .resume-btn-full:visited,
 [type="button"] {
-  background-color: #e67e22;
+  background-color: #22cfe6;
   color: #fff;
   margin-right: 15px;
 }
 
 .resume-btn:hover,
 .resume-btn:active {
-  background-color: #d35400;
+  background-color: #22cfe6;
 }
 
 .resume-btn-full:hover,
 .resume-btn-full:active {
-  border: 1px solid #d35400;
+  border: 1px solid #22cfe6;
 }
 
 /* ------------------------------------------------------------ */
@@ -564,7 +564,7 @@ footer {
 
 .footer-nav-left li a:hover,
 .footer-nav-left li a:active {
-  color: #e67e22;
+  color: #22cfe6;
 }
 
 footer div {
@@ -593,7 +593,7 @@ footer div > p {
 }
 
 .footer-nav-left li:nth-child(3) a > ion-icon:hover {
-  color: #cb2027;
+  color: #22cfe6;
 }
 
 .footer-nav-left li:nth-child(4) a > ion-icon:hover {

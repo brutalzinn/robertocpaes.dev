@@ -56,7 +56,7 @@
         </div>
       </nav>
       <div class="hero-text-box">
-        <h1 class="name__title">Eu sou Roberto Paes teste</h1>
+        <h1 class="name__title">Eu sou Roberto Paes</h1>
         <p class="name__subtitle">Um <span>desenvolvedor</span> aspirante</p>
     
         <a class="btn btn-full" href="#portfolio-section">Veja meu trabalho</a>

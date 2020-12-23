@@ -62,6 +62,15 @@
   .blue {
     color: #54cbe0;
 }
+div {
+    display: block;
+}
+.column {
+    color: #fff;
+}
+* {
+    box-sizing: border-box;
+}
   h4 {
     margin-top: -10px;
     margin-bottom: 50px;

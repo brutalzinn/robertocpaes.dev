@@ -14,7 +14,7 @@
   <h1 class="title">Roberto <span class="sobrenome"> Paes </span></h1>
   <h4 class="blue">Um desenvolvedor aspirante.</h4>
 </div>
-
+<div class="container">
 
 <div class="grid skills">
 
@@ -40,7 +40,7 @@
   </div>
 </div>
 </div>
-
+</div>
 
 </body>
 </html>

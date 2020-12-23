@@ -101,15 +101,17 @@ div {
         flex-direction: column;
     }
   }
-
+  .container {
+    min-height: 100vh;
+    padding: 0 .5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
   .grid {
     display: flex;
     justify-content: center;
     max-width: 1000px;
     margin-top: 3rem;
-}
-main {
-    padding: 5rem 0;
-    flex: 1 1;
-    flex-direction: column;
 }

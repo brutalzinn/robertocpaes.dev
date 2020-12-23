@@ -132,8 +132,6 @@ text-align: center;
 .box_description {
     line-height: 2;
     font-size: 1.2rem;
-    width: 100%;
-}
-.box_description, .column {
-    text-align: center;
+    width: 100%;  
+text-align: center;
 }

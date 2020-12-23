@@ -33,7 +33,7 @@ testando descrição.
   </div>
   
   <div class="column">
-  <p class="blue">Infraestrutura</p>
+  <p class="blue">INFRAESTURURA</p>
   <ul>
     <li>Docker</li>
     <li>Google Servers</li>

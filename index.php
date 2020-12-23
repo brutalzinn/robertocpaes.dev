@@ -136,12 +136,6 @@
                 <td>Php</td>
              
               </tr>
-           
-              <tr class="skill-row">
-                <td>Docker</td>
-              
-              </tr>
-          
               <tr class="skill-row">
                 <td>Sistemas embarcados</td>
 
@@ -169,18 +163,15 @@
               </tr>
             </table>
           </td>
-        
+          <td>
             <table class="skill-col-2">
-                      <tr class="skill-row">
-                <td>Git</td>
-            
-              </tr>       
-            
-         
-     
-             
+                
+              <tr class="skill-row">
+                <td>Docker</td>
+              
+              </tr>
             </table>
-          
+          </td>
         </tr>
       </table>
     </section>

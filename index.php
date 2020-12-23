@@ -17,13 +17,16 @@
 
 
 <div class="row">
+
   <div class="column">
     <p class="blue">Linguagens</p>
+    <ul>
     <li>PHP</li>
     <li>C#</li>
   <li>JAVa</li>
     <li>JAVASCRIPT</li>
     <li>C++</li>
+</ul>
   </div>
   
   <div class="column">

@@ -61,7 +61,10 @@
   .column ul li {
     font-size: 130%;
 }
-
+.column ul {
+  margin-left:5px;
+padding: 5px;
+}
   .column p {
     margin: 0;
     font-size: 1.25rem;

@@ -163,10 +163,10 @@
               
             </table>
           </td>
-          <td>
+         
             <table class="skill-col-2">
             <tr class="skill-row">
-                <td><p>Infraestrutura</p></td>
+                <td>Infraestrutura</td>
             
               </tr>
               <tr class="skill-row">
@@ -184,7 +184,7 @@
             
             
             </table>
-          </td>
+       
           <td>
             <table class="skill-col-3">
 

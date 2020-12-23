@@ -18,7 +18,7 @@
 
 <div class="row">
   <div class="column">
-    <h2>Linguagens</h2>
+    <p class="blue">Linguagens</p>
     <li>PHP</li>
     <li>C#</li>
   <li>JAVa</li>

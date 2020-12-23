@@ -9,6 +9,7 @@ define ("COLUMN_ENERGY", "CREATIVE ENERGY");
 define ("COLUMN_COMMUNICATION", "COMMUNICATION");
 define ("COLUMN_COUCH", "ETERNAL LEARNING");
 define ("COLUMN_SOCIAL_NETWORK", "SOCIAL NETWORKS");
+define("LANGUAGE", "LANGUAGE");
 
 define ("COLUMN_ENERGY_RESPONSE", "The energy that moves me is my fascination with solving increasingly interesting problems. My curiosity for the answer always takes me out of inertia.
 ");

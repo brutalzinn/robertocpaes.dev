@@ -12,9 +12,9 @@ if(isset($_GET['lang']) && !empty($_GET['lang'])){
 
 // Include Language file
 if(isset($_SESSION['lang'])){
- include "lang_".$_SESSION['lang'].".php";
+ include "langs/lang_".$_SESSION['lang'].".php";
 }else{
- include "lang_en.php";
+ include "langs/lang_en.php";
 }
 ?>
 <!DOCTYPE html>

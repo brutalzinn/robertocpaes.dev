@@ -29,6 +29,11 @@ if(isset($_SESSION['lang'])){
 
 </head>
 <body>
+<script>
+ function changeLang(){
+  document.getElementById('form_lang').submit();
+ }
+ </script>
 <form method='get' action='' id='form_lang' >
    Language: <select name='lang' onchange='changeLang();' >
    <option value='en' <?php if(isset($_SESSION['lang']) && $_SESSION['lang'] == 'en'){ echo "selected"; } ?> >English</option>

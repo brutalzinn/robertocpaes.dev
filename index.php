@@ -56,7 +56,7 @@ Eu sou autodidata. Moro no Rio de janeiro, Brasil. Fui introduzido ao mundo da p
 
   <div class="column">
     <p class="blue">ENERGIA CRIATIVA</p>
-    <p class="box_description">
+    <p>
    A energia que me move é o meu fascínio por resolver problemas cada vez mais interessantes. A minha curiosidade pela resposta sempre me tira da inércia. 
 
 </p>
@@ -64,7 +64,7 @@ Eu sou autodidata. Moro no Rio de janeiro, Brasil. Fui introduzido ao mundo da p
   
   <div class="column">
   <p class="blue">COMUNICAÇÃO</p>
-  <p class="box_description">
+  <p>
  Eu entendo o papel fundamental da comunicação no desenvolvimento de softaware. E darei o meu melhor para atender as demandas solicitadas criteriosamente.
 </p>
   </div>
@@ -72,7 +72,7 @@ Eu sou autodidata. Moro no Rio de janeiro, Brasil. Fui introduzido ao mundo da p
   <div class="column">
   <p class="blue">ETERNO APRENDIZ</p>
   
-  <p class="box_description">
+  <p>
  Estou sempre disposto a ouvir.  Ser desenvolvedor significa se reinventar sempre que for necessário. Isso inclui sempre estar disposto a aprender algo novo.      
 </p>
 

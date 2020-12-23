@@ -53,7 +53,7 @@ if(isset($_SESSION['lang'])){
 <form method='get' action='' id='form_lang' >
 <?= LANGUAGE ?>: <select name='lang' onchange='changeLang();' >
    <option value='en' <?php if(isset($_SESSION['lang']) && $_SESSION['lang'] == 'en'){ echo "selected"; } ?> >English</option>
-   <option value='pt' <?php if(isset($_SESSION['lang']) && $_SESSION['lang'] == 'pt'){ echo "selected"; } ?> >Portuguese</option>
+   <option value='pt' <?php if(isset($_SESSION['lang']) && $_SESSION['lang'] == 'pt'){ echo "selected"; } ?> >Português</option>
   </select>
  </form>
 <div class="header">

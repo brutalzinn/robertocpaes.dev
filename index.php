@@ -15,7 +15,7 @@
   <h4 class="blue">Um desenvolvedor aspirante.</h4>
 </div>
 <div class="container">
-
+<main>
 <div class="grid skills">
 
   <div class="column">
@@ -40,6 +40,7 @@
   </div>
 </div>
 </div>
+</main>
 </div>
 
 </body>

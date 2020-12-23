@@ -135,6 +135,6 @@ main {
     font-size: 1.2rem;
     width: 100%;
 }
-.box_description, .title {
+.box_description, .column {
     text-align: center;
 }

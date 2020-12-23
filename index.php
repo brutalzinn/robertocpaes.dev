@@ -11,6 +11,7 @@
 <body>
 
 <div class="header">
+  <main>
   <h1 class="title">Roberto <span class="sobrenome"> Paes </span></h1>
   <h4 class="blue">Um desenvolvedor aspirante.</h4>
 </div>
@@ -18,7 +19,7 @@
 Eu sou autodidata. Moro no Rio de janeiro, Brasil. Fui introduzido ao mundo da programação em 2012, através do Minecraft e o seu glorioso mundo de blocos.
 </p>
 <div class="container">
-<main>
+
 <div class="grid skills">
 
   <div class="column">

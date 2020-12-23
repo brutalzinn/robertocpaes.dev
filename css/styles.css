@@ -127,4 +127,21 @@ main {
     width: 100%; 
 text-align: center;
 }
-
+a:link {
+    color: rgb(0, 0, 0);
+  }
+  
+  /* visited link */
+  a:visited {
+    color: rgb(0, 0, 0);
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: rgb(102, 102, 102);
+  }
+  
+  /* selected link */
+  a:active {
+    color: rgb(0, 0, 0);
+  }

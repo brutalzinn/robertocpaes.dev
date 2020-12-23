@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>robertinho.net - portfólio</title>
+<title>Roberto Paes - portfólio</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -15,7 +15,7 @@
   <h1 class="title">Roberto <span class="sobrenome"> Paes </span></h1>
   <h4 class="blue">Um desenvolvedor aspirante.</h4>
 <p class="description">
-Eu sou autodidata. Moro no Rio de janeiro, Brasil. Fui introduzido ao mundo da programação em 2012, através do Minecraft e o seu glorioso mundo de blocos.
+Eu sou autodidata. Moro no Rio de janeiro, Brasil. <br>Fui introduzido ao mundo da programação em 2012, através do Minecraft e o seu glorioso mundo de blocos.
 </p>
 
 </div>

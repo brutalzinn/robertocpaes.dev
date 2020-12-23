@@ -21,8 +21,9 @@ if(isset($_SESSION['lang'])){
   foreach($user_pref_langs as $idx => $lang) {
       $lang = substr($lang, 0, 2);
       if (in_array($lang, $known_langs)) {
-          echo "Preferred language is $lang";
+     
           include "langs/lang_{$lang}.php"; 
+          $_SESSION['lang'] = $lang;
           break;
       }
   }

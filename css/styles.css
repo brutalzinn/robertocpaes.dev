@@ -126,3 +126,6 @@ main {
     font-size: 1.2rem;
     width: 80%;
 }
+.description, .title {
+    text-align: center;
+}

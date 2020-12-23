@@ -80,6 +80,22 @@ Eu sou autodidata. Moro no Rio de janeiro, Brasil. Fui introduzido ao mundo da p
 
 </div>
 
+<div class="grid skills">
+
+  <div class="column">
+    <p class="blue">Redes sociais</p>
+    <p>
+Github
+Facebook
+Linkedin
+</p>
+</div>
+  
+
+  
+
+
+</div>
 
 
 

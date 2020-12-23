@@ -36,6 +36,9 @@
     padding: 14px 16px;
     text-decoration: none;
   }
+  p {
+    line-height: 35px;
+}
   
   /* Change color on hover */
   .topnav a:hover {
@@ -61,6 +64,13 @@
 }
   .blue {
     color: #54cbe0;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
 }
 div {
     display: block;

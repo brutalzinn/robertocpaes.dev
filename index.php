@@ -165,7 +165,10 @@
           </td>
           <td>
             <table class="skill-col-2">
-
+            <tr class="skill-row">
+                <td><h2>Infraestrutura</h2></td>
+            
+              </tr>
               <tr class="skill-row">
                 <td>Docker</td>
             

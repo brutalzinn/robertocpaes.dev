@@ -129,26 +129,26 @@
             <table class="skill-col-1">
               <tr class="skill-row">
                 <td>C#</td>
-                <td>⭐⭐⭐⭐⭐</td>
+             
               </tr>
           
               <tr class="skill-row">
                 <td>Php</td>
-                <td>⭐⭐⭐⭐</td>
+             
               </tr>
            
               <tr class="skill-row">
                 <td>Docker</td>
-                <td>⭐⭐⭐</td>
+              
               </tr>
           
               <tr class="skill-row">
                 <td>Sistemas embarcados</td>
-                <td>⭐⭐</td>
+
               </tr>
               <tr class="skill-row">
                 <td>Python</td>
-                <td>⭐⭐</td>
+              
               </tr>
             </table>
           </td>
@@ -157,25 +157,25 @@
                     
             <tr class="skill-row">
                 <td>C++</td>
-                <td>⭐⭐⭐⭐⭐</td>
+             
               </tr>
            
               <tr class="skill-row">
                 <td>Java</td>
-                <td>⭐⭐⭐⭐</td>
+         
               </tr>
          
               <tr class="skill-row">
                 <td>Git</td>
-                <td>⭐⭐⭐</td>
+            
               </tr>
               <tr class="skill-row">
                 <td>JavaScript</td>
-                <td>⭐</td>
+            
               </tr>
               <tr class="skill-row">
                 <td>NodeJs</td>
-                <td>⭐⭐</td>
+           
               </tr>
             </table>
           </td>

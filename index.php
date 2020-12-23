@@ -72,7 +72,7 @@ if(isset($_SESSION['lang'])){
 
   <div class="column">
     <p class="blue boxTitle"><?= COLUMN_LANGUAGES ?></p>
-    <ul class="boxUlJustified">
+    <ul>
     <li>PHP</li>
     <li>C#</li>
     <li>JAVA</li>
@@ -85,7 +85,7 @@ if(isset($_SESSION['lang'])){
   
   <div class="column">
   <p class="blue boxTitle"><?= COLUMN_INFRA ?></p>
-  <ul class="boxUlJustified">
+  <ul>
     <li>Docker</li>
     <li>Google Servers</li>
 </ul>
@@ -93,7 +93,7 @@ if(isset($_SESSION['lang'])){
   
   <div class="column">
   <p class="blue boxTitle"><?= COLUMN_DB ?></p>
-  <ul class="boxUlJustified">
+  <ul>
     <li>MySql</li>
 </ul>
 </div>

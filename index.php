@@ -29,7 +29,7 @@ Eu sou autodidata. Moro no Rio de janeiro, Brasil. Fui introduzido ao mundo da p
     <ul>
     <li>PHP</li>
     <li>C#</li>
-  <li>JAVa</li>
+  <li>JAVA</li>
     <li>JAVASCRIPT</li>
     <li>C++</li>
     <li>NodeJs</li>

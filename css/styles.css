@@ -159,8 +159,8 @@ a:link {
     margin-top: -10px;
  }
 .boxTitle + p{
-
     margin-top: 10px;
-
-
+} 
+.boxTitle + span{
+    margin-top: 10px;
 } 

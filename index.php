@@ -57,7 +57,7 @@ Eu sou autodidata. Moro no Rio de janeiro, Brasil. Fui introduzido ao mundo da p
 <div class="grid skills">
 
   <div class="column">
-    <p class="blue">ENERGIA CRIATIVA</p>
+    <p class="blue header">ENERGIA CRIATIVA</p>
     <p>
    A energia que me move é o meu fascínio por resolver problemas cada vez mais interessantes. A minha curiosidade pela resposta sempre me tira da inércia. 
 

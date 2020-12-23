@@ -4,7 +4,8 @@
 <title>robertinho.net - portfólio</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
 <link rel="stylesheet" href="css/styles.css">
 
 </head>
@@ -85,7 +86,7 @@ Eu sou autodidata. Moro no Rio de janeiro, Brasil. Fui introduzido ao mundo da p
   <div class="column">
     <p class="blue">Redes sociais</p>
     <ul>
-<li>Github</li>
+<i style="font-size:24px" class="fa">&#xf09b;</i>
 <li>Github</li>
 <li>Github</li>
 </ul>

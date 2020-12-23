@@ -45,17 +45,14 @@
   
   /* Create three equal columns that floats next to each other */
   .column {
-    float: left;
     margin: 1rem;
-    width: 33.33%;
     padding: 1.5rem;
-
     text-align: left;
     background: #1d1e26;
-    padding: 1.5rem;
-    border-radius: 10px;
-    text-decoration: none;
     border: 2px solid #74f27c;
+    text-decoration: none;
+    border-radius: 10px;
+
   }
   .column p {
     margin: 0;

@@ -18,8 +18,12 @@
 
 <div class="row">
   <div class="column">
-    <h2>Column</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet pretium urna. Vivamus venenatis velit nec neque ultricies, eget elementum magna tristique. Quisque vehicula, risus eget aliquam placerat, purus leo tincidunt eros, eget luctus quam orci in velit. Praesent scelerisque tortor sed accumsan convallis.</p>
+    <h2>Linguagens</h2>
+    <p>PHP</p>
+    <p>C#</p>
+    <p>JAVA</p>
+    <p>JAVASCRIPT</p>
+    <p>C++</p>
   </div>
   
   <div class="column">

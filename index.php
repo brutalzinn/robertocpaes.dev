@@ -86,8 +86,8 @@ Eu sou autodidata. Moro no Rio de janeiro, Brasil. Fui introduzido ao mundo da p
   <div class="column">
     <p class="blue">Redes sociais</p>
     <ul>
-<a href="https://github.com/brutalzinn" ><i style="font-size:24px" class="fab fa-github">&#xf09b;</i></a>
-<a href="https://www.facebook.com/brutalzinn.roberto/" ><i style="font-size:24px" class="fab fa-facebook">&#xf09b;</i></a>
+<a href="https://github.com/brutalzinn" ><i style="font-size:24px" class="fa">&#xf09b;</i></a>
+<a href="https://www.facebook.com/brutalzinn.roberto/" ><i style="font-size:24px" class="fa">&#xf09a;</i></a>
 
 </ul>
 </div>

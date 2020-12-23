@@ -19,11 +19,11 @@
 <div class="row">
   <div class="column">
     <h2>Linguagens</h2>
-    <p><li>PHP</li>/p>
-    <p><li>C#</li>/p>
-    <p><li>JAVa</li></p>
-    <p><li>JAVASCRIPT</li></p>
-    <p><li>C++</li></p>
+    <li>PHP</li>
+    <li>C#</li>
+  <li>JAVa</li>
+    <li>JAVASCRIPT</li>
+    <li>C++</li>
   </div>
   
   <div class="column">

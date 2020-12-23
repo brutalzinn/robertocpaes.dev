@@ -44,7 +44,8 @@ if(isset($_SESSION['lang'])){
   <h1 class="title">Roberto <span class="sobrenome"> Paes </span></h1>
   <h4 class="blue"><?= _TITLE_MESSAGE ?></h4>
 <p class="description">
-Eu sou autodidata. Moro no Rio de janeiro, Brasil. <br>Fui introduzido ao mundo da programação em 2012, através do Minecraft e o seu glorioso mundo de blocos.
+<?= _DESCRIPTION ?>
+
 </p>
 
 </div>
@@ -54,7 +55,7 @@ Eu sou autodidata. Moro no Rio de janeiro, Brasil. <br>Fui introduzido ao mundo 
 <div class="grid skills">
 
   <div class="column">
-    <p class="blue">LINGUAGENS</p>
+    <p class="blue"><?= COLUMN_LANGUAGES ?></p>
     <ul>
     <li>PHP</li>
     <li>C#</li>
@@ -67,7 +68,7 @@ Eu sou autodidata. Moro no Rio de janeiro, Brasil. <br>Fui introduzido ao mundo 
   </div>
   
   <div class="column">
-  <p class="blue">INFRAESTURURA</p>
+  <p class="blue"><?= COLUMN_INFRA ?></p>
   <ul>
     <li>Docker</li>
     <li>Google Servers</li>
@@ -75,7 +76,7 @@ Eu sou autodidata. Moro no Rio de janeiro, Brasil. <br>Fui introduzido ao mundo 
   </div>
   
   <div class="column">
-  <p class="blue">BANCO DE DADOS</p>
+  <p class="blue"><?= COLUMN_DB ?></p>
   <ul>
     <li>MySql</li>
 </ul>
@@ -86,26 +87,24 @@ Eu sou autodidata. Moro no Rio de janeiro, Brasil. <br>Fui introduzido ao mundo 
 <div class="grid skills">
 
   <div class="column">
-    <p class="blue boxTitle">ENERGIA CRIATIVA</p>
+    <p class="blue boxTitle"><?= COLUMN_ENERGY ?></p>
     <p>
-   A energia que me move é o meu fascínio por resolver problemas cada vez mais interessantes. A minha curiosidade pela resposta sempre me tira da inércia. 
-
+    <?= COLUMN_ENERGY_RESPONSE ?>
 </p>
 </div>
   
   <div class="column">
-  <p class="blue boxTitle">COMUNICAÇÃO</p>
+  <p class="blue boxTitle"><?= COLUMN_COMMUNICATION ?></p>
   <p>
- Eu entendo o papel fundamental da comunicação no desenvolvimento de softaware. E darei o meu melhor para atender as demandas solicitadas criteriosamente.
+  <?= COLUMN_COMMUNICATION_RESPONSE ?> 
 </p>
   </div>
   
   <div class="column">
-  <p class="blue boxTitle">ETERNO APRENDIZ</p>
+  <p class="blue boxTitle">  <?= COLUMN_COUCH ?></p>
   
   <p>
- Estou sempre disposto a ouvir.  Ser desenvolvedor significa se reinventar sempre que for necessário. Isso inclui sempre estar disposto a aprender algo novo.      
-</p>
+  <?= COLUMN_COUCH_RESPONSE ?></p>
 
 </div>
 
@@ -114,7 +113,7 @@ Eu sou autodidata. Moro no Rio de janeiro, Brasil. <br>Fui introduzido ao mundo 
 <div class="grid skills">
 
   <div class="column">
-    <p class="blue boxTitle">REDES SOCIAIS</p>
+    <p class="blue boxTitle"> <?= COLUMN_SOCIAL_NETWORK ?></p>
     <ul>
 <span class="listStyleHome">></span> <a href="https://github.com/brutalzinn" ><i style="font-size:24px" class="fa">&#xf09b;</i> Github</a><br>
 <span class="listStyleHome">></span> <a href="https://www.facebook.com/brutalzinn.roberto/" ><i style="font-size:24px" class="fa">&#xf09a;</i> Facebook</a><br>

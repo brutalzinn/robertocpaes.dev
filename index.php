@@ -164,7 +164,7 @@
             </table>
           </td>
           <td>
-            <table class="skill-col-2">
+            <table class="skill-col-1">
 
               <tr class="skill-row">
                 <td>Docker</td>
@@ -183,7 +183,7 @@
             </table>
           </td>
           <td>
-            <table class="skill-col-3">
+            <table class="skill-col-1">
 
               <tr class="skill-row">
                 <td>MySql</td>

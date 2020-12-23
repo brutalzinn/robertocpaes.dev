@@ -133,7 +133,7 @@ a:link {
   
   /* visited link */
   a:visited {
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
   }
   
   /* mouse over link */
@@ -143,7 +143,7 @@ a:link {
   
   /* selected link */
   a:active {
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
   }
 
   .listStyleHome {

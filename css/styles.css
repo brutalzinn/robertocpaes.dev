@@ -60,13 +60,10 @@
   }
   .column ul li {
     font-size: 130%;
+    margin-left: 0;
+    padding: 0px;
 }
-.column li {
 
-  margin-left: 0;
-padding: 0px;
-text-align: left;
-}
   .column p {
     margin: 0;
     font-size: 1.25rem;

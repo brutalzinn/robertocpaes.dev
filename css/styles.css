@@ -145,3 +145,11 @@ a:link {
   a:active {
     color: rgb(0, 0, 0);
   }
+
+  .listStyleHome {
+    margin-right: 15px;
+}
+.listStyle, .listStyleHome {
+    color: #54cbe0;
+    font-size: 110%;
+}

@@ -11,10 +11,16 @@ if(isset($_GET['lang']) && !empty($_GET['lang'])){
 }
 
 // Include Language file
+
 if(isset($_SESSION['lang'])){
  include "langs/lang_".$_SESSION['lang'].".php";
 }else{
- include "langs/lang_en.php";
+  $lang = substr($_SERVER['HTTP_ACCEPT_LANGUAGE'], 0, 2);
+  $acceptLang = ['pt', 'en']; 
+  $lang = in_array($lang, $acceptLang) ? $lang : 'en';
+ 
+ include "langs/lang_{$lang}.php"; 
+
 }
 ?>
 <!DOCTYPE html>

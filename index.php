@@ -18,7 +18,7 @@ if(isset($_SESSION['lang'])){
 }
 ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt">
 <head>
 <title>Roberto Paes - portfólio</title>
 <meta charset="utf-8">

@@ -71,7 +71,7 @@ if(isset($_SESSION['lang'])){
 <div class="grid skills">
 
   <div class="column">
-    <p class="blue"><?= COLUMN_LANGUAGES ?></p>
+    <p class="blue boxTitle"><?= COLUMN_LANGUAGES ?></p>
     <ul>
     <li>PHP</li>
     <li>C#</li>
@@ -84,7 +84,7 @@ if(isset($_SESSION['lang'])){
   </div>
   
   <div class="column">
-  <p class="blue"><?= COLUMN_INFRA ?></p>
+  <p class="blue boxTitle"><?= COLUMN_INFRA ?></p>
   <ul>
     <li>Docker</li>
     <li>Google Servers</li>
@@ -92,7 +92,7 @@ if(isset($_SESSION['lang'])){
   </div>
   
   <div class="column">
-  <p class="blue"><?= COLUMN_DB ?></p>
+  <p class="blue boxTitle"><?= COLUMN_DB ?></p>
   <ul>
     <li>MySql</li>
 </ul>

@@ -57,6 +57,10 @@
     border-radius: 10px;
     transition: color .15s ease,border-color .15s ease;
   }
+  .column ul li {
+    font-size: 130%;
+}
+
   .column p {
     margin: 0;
     font-size: 1.25rem;

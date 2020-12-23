@@ -121,7 +121,7 @@
 
     <section id="skills">
       <div class="row">
-        <h2>Habilidades</h2>
+        <h2>Línguagens e frameworks</h2>
       </div>
       <table class="row skill-table">
         <tr>
@@ -136,12 +136,7 @@
                 <td>Php</td>
              
               </tr>
-           
-              <tr class="skill-row">
-                <td>Docker</td>
-              
-              </tr>
-          
+
               <tr class="skill-row">
                 <td>Sistemas embarcados</td>
 
@@ -164,11 +159,7 @@
                 <td>Java</td>
          
               </tr>
-         
-              <tr class="skill-row">
-                <td>Git</td>
-            
-              </tr>
+    
               <tr class="skill-row">
                 <td>JavaScript</td>
             
@@ -182,7 +173,25 @@
         </tr>
       </table>
     </section>
-
+    <section id="skills">
+      <div class="row">
+        <h2>Infraestrutura</h2>
+      </div>
+      <table class="row skill-table">
+        <tr>
+          <td>
+            <table class="skill-col-1">
+              <tr class="skill-row">
+                <td>Docker</td>
+             
+              </tr>
+          
+              
+            </table>
+          </td>
+        </tr>
+      </table>
+    </section>
     <section id="portfolio-section">
       <div class="row">
         <h2>Projetos</h2>

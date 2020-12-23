@@ -9,6 +9,11 @@
     color: #fff;
     opacity: .7;
   }
+  .title {
+    margin: 0;
+    line-height: 1.15;
+    font-size: 4rem;
+}
   
   /* Style the header */
   .header {
@@ -44,7 +49,14 @@
     width: 33.33%;
     padding: 15px;
   }
-  
+  .blue {
+    color: #54cbe0;
+}
+  h4 {
+    margin-top: -30px;
+    margin-bottom: 50px;
+    font-size: 140%;
+}
   /* Clear floats after the columns */
   .row:after {
     content: "";

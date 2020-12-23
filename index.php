@@ -11,7 +11,7 @@
 <body>
 
 <div class="header">
-  <h1>Roberto <span class="sobrenome"> Paes </span></h1>
+  <h1 class="title">Roberto <span class="sobrenome"> Paes </span></h1>
   <p>Um desenvolvedor aspirante.</p>
 </div>
 

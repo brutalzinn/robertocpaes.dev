@@ -30,14 +30,14 @@ if(isset($_SESSION['lang'])){
 </head>
 <body>
 <form method='get' action='' id='form_lang' >
-   Select Language : <select name='lang' onchange='changeLang();' >
+   Language: <select name='lang' onchange='changeLang();' >
    <option value='en' <?php if(isset($_SESSION['lang']) && $_SESSION['lang'] == 'en'){ echo "selected"; } ?> >English</option>
    <option value='pt' <?php if(isset($_SESSION['lang']) && $_SESSION['lang'] == 'pt'){ echo "selected"; } ?> >Portuguese</option>
   </select>
  </form>
 <div class="header">
   <h1 class="title">Roberto <span class="sobrenome"> Paes </span></h1>
-  <h4 class="blue">Um desenvolvedor aspirante.</h4>
+  <h4 class="blue"><?= _TITLE_MESSAGE ?></h4>
 <p class="description">
 Eu sou autodidata. Moro no Rio de janeiro, Brasil. <br>Fui introduzido ao mundo da programação em 2012, através do Minecraft e o seu glorioso mundo de blocos.
 </p>

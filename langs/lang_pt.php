@@ -9,7 +9,7 @@ define("COLUMN_ENERGY", "ENERGIA CRIATIVA");
 define("COLUMN_COMMUNICATION", "COMUNICAÇÃO");
 define("COLUMN_COUCH", "ETERNO APRENDIZ");
 define("COLUMN_SOCIAL_NETWORK", "REDES SOCIAIS");
-define("LANGUAGE", "IDIOMA");
+define("LANGUAGE", "Idioma");
 
 define("COLUMN_ENERGY_RESPONSE", "A energia que me move é o meu fascínio por resolver problemas cada vez mais interessantes. A minha curiosidade pela resposta sempre me tira da inércia. 
 ");

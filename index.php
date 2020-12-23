@@ -11,15 +11,10 @@
 <body>
 
 <div class="header">
-  <h1>Header</h1>
-  <p>Resize the browser window to see the responsive effect.</p>
+  <h1>Roberto Paes</h1>
+  <p>Um desenvolvedor aspirante.</p>
 </div>
 
-<div class="topnav">
-  <a href="#">Link</a>
-  <a href="#">Link</a>
-  <a href="#">Link</a>
-</div>
 
 <div class="row">
   <div class="column">

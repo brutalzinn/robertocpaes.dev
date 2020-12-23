@@ -121,7 +121,7 @@
 
     <section id="skills">
       <div class="row">
-        <h2>Línguagens e frameworks</h2>
+        <h2>Habilidades</h2>
       </div>
       <table class="row skill-table">
         <tr>
@@ -138,19 +138,10 @@
               </tr>
 
               <tr class="skill-row">
-                <td>Sistemas embarcados</td>
-
-              </tr>
-              <tr class="skill-row">
                 <td>Python</td>
               
               </tr>
-            </table>
-          </td>
-          <td>
-            <table class="skill-col-2">
-                    
-            <tr class="skill-row">
+   <tr class="skill-row">
                 <td>C++</td>
              
               </tr>
@@ -159,8 +150,8 @@
                 <td>Java</td>
          
               </tr>
-    
-              <tr class="skill-row">
+         
+  <tr class="skill-row">
                 <td>JavaScript</td>
             
               </tr>
@@ -168,30 +159,48 @@
                 <td>NodeJs</td>
            
               </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </section>
-    <section id="skills">
-      <div class="row">
-        <h2>Infraestrutura</h2>
-      </div>
-      <table class="row skill-table">
-        <tr>
-          <td>
-            <table class="skill-col-1">
-              <tr class="skill-row">
-                <td>Docker</td>
-             
-              </tr>
-          
+
               
             </table>
           </td>
+          <td>
+            <table class="skill-col-2">
+
+              <tr class="skill-row">
+                <td>Docker</td>
+            
+              </tr>
+              <tr class="skill-row">
+                <td>Google servers</td>
+            
+              </tr>
+              <tr class="skill-row">
+                <td>Amazon WS</td>
+            
+              </tr>
+            
+            
+            </table>
+          </td>
+          <td>
+            <table class="skill-col-3">
+
+              <tr class="skill-row">
+                <td>MySql</td>
+            
+              </tr>
+              <tr class="skill-row">
+                <td>MongoDB</td>
+            
+              </tr>
+   
+            
+            </table>
+          </td>
         </tr>
       </table>
     </section>
+
     <section id="portfolio-section">
       <div class="row">
         <h2>Projetos</h2>

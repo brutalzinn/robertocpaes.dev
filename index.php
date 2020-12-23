@@ -87,8 +87,8 @@ Eu sou autodidata. Moro no Rio de janeiro, Brasil. Fui introduzido ao mundo da p
   <div class="column">
     <p class="blue">Redes sociais</p>
     <ul>
-<span class="listStyleHome">></span> <a href="https://github.com/brutalzinn" ><i style="font-size:24px" class="fa">&#xf09b;</i></a>
-<span class="listStyleHome">></span> <a href="https://www.facebook.com/brutalzinn.roberto/" ><i style="font-size:24px" class="fa">&#xf09a;</i></a>
+<span class="listStyleHome">></span> <a href="https://github.com/brutalzinn" ><i style="font-size:24px" class="fa">&#xf09b;</i></a><br>
+<span class="listStyleHome">></span> <a href="https://www.facebook.com/brutalzinn.roberto/" ><i style="font-size:24px" class="fa">&#xf09a;</i></a><br>
 <span class="listStyleHome">></span> <p>E-mail: contato@robertocpaes.dev</p>
 
 </ul>

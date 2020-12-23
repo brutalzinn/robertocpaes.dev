@@ -15,11 +15,18 @@ if(isset($_GET['lang']) && !empty($_GET['lang'])){
 if(isset($_SESSION['lang'])){
  include "langs/lang_".$_SESSION['lang'].".php";
 }else{
-  $lang = substr($_SERVER['HTTP_ACCEPT_LANGUAGE'], 0, 2);
-  $acceptLang = ['pt','en']; 
-  $lang = in_array($lang, $acceptLang) ? $lang : 'en';
- 
- include "langs/lang_{$lang}.php"; 
+  $known_langs = array('en','pt');
+  $user_pref_langs = explode(',', $_SERVER['HTTP_ACCEPT_LANGUAGE']);
+  
+  foreach($user_pref_langs as $idx => $lang) {
+      $lang = substr($lang, 0, 2);
+      if (in_array($lang, $known_langs)) {
+          echo "Preferred language is $lang";
+          include "langs/lang_{$lang}.php"; 
+          break;
+      }
+  }
+
 
 }
 ?>

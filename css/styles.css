@@ -129,3 +129,12 @@ main {
 .description, .title {
     text-align: center;
 }
+
+.box_description {
+    line-height: 1.5;
+    font-size: 1.2rem;
+    width: 100%;
+}
+.box_description, .title {
+    text-align: center;
+}

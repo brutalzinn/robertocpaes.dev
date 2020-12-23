@@ -75,7 +75,7 @@ if(isset($_SESSION['lang'])){
     <ul>
     <li>PHP</li>
     <li>C#</li>
-  <li>JAVA</li>
+    <li>JAVA</li>
     <li>JAVASCRIPT</li>
     <li>C++</li>
     <li>NodeJs</li>

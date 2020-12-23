@@ -164,3 +164,8 @@ a:link {
 .boxTitle + span{
     margin-top: 10px;
 } 
+.column + ul{
+
+  text-align: right;
+
+}

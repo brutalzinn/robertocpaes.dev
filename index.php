@@ -16,7 +16,7 @@ if(isset($_SESSION['lang'])){
  include "langs/lang_".$_SESSION['lang'].".php";
 }else{
   $lang = substr($_SERVER['HTTP_ACCEPT_LANGUAGE'], 0, 2);
-  $acceptLang = ['pt', 'en']; 
+  $acceptLang = ['pt','en']; 
   $lang = in_array($lang, $acceptLang) ? $lang : 'en';
  
  include "langs/lang_{$lang}.php"; 

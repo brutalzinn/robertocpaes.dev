@@ -33,6 +33,7 @@ Eu sou autodidata. Moro no Rio de janeiro, Brasil. Fui introduzido ao mundo da p
     <li>JAVASCRIPT</li>
     <li>C++</li>
     <li>NodeJs</li>
+    <li>LUA</li>
 </ul>
   </div>
   
@@ -88,6 +89,7 @@ Eu sou autodidata. Moro no Rio de janeiro, Brasil. Fui introduzido ao mundo da p
     <ul>
 <li><a href="https://github.com/brutalzinn" ><i style="font-size:24px" class="fa">&#xf09b;</i></a></li>
 <li><a href="https://www.facebook.com/brutalzinn.roberto/" ><i style="font-size:24px" class="fa">&#xf09a;</i></a></li>
+<li><p>E-mail: contato@robertocpaes.dev</p></li>
 
 </ul>
 </div>

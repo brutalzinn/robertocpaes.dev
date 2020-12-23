@@ -169,7 +169,7 @@
               </tr>
             </table>
           </td>
-          <td>
+        
             <table class="skill-col-2">
                       <tr class="skill-row">
                 <td>Git</td>
@@ -180,7 +180,7 @@
      
              
             </table>
-          </td>
+          
         </tr>
       </table>
     </section>

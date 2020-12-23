@@ -124,11 +124,10 @@ main {
 .description {
     line-height: 1.5;
     font-size: 1.2rem;
-    width: 80%;
+    width: 100%; 
+text-align: center;
 }
-.description, .title {
-    text-align: center;
-}
+
 
 .box_description {
     line-height: 2;

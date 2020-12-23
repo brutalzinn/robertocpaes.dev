@@ -15,7 +15,7 @@
   <h4 class="blue">Um desenvolvedor aspirante.</h4>
 </div>
 <p class="description">
-testando descrição.
+Eu sou autodidata. Moro no Rio de janeiro, Brasil. Fui introduzido ao mundo da programação em 2012, através do Minecraft e o seu glorioso mundo de blocos.
 </p>
 <div class="container">
 <main>
@@ -42,17 +42,50 @@ testando descrição.
   </div>
   
   <div class="column">
-  <p class="blue">Banco de dados</p>
+  <p class="blue">BANCO DE DADOS</p>
   <ul>
     <li>MySql</li>
 </ul>
 </div>
 
 </div>
+
+<div class="grid skills">
+
+  <div class="column">
+    <p class="blue">ENERGIA CRIATIVA</p>
+ <p>   A energia que me move é o meu fascínio por resolver problemas cada vez mais interessantes. A minha curiosidade pela resposta sempre me tira da inércia. 
+</p> 
+</div>
+  
+  <div class="column">
+  <p class="blue">COMUNICAÇÃO</p>
+  <p>
+          Eu entendo o papel fundamental da comunicação no desenvolvimento de softaware. E darei o meu melhor para atender as demandas solicitadas criteriosamente.
+          </p>
+  </div>
+  
+  <div class="column">
+  <p class="blue">ETERNO APRENDIZ</p>
+  <p>
+         Estou sempre disposto a ouvir.  Ser <span class="quote">desenvolvedor</span> significa se reinventar sempre que for necessário. Isso inclui sempre estar disposto a aprender algo novo.
+            
+              
+          </p>
+</div>
+
+</div>
+
+
+
+
+
 </div>
 </div>
 </main>
 </div>
 
 </body>
+
+<p class="footer">  </p>
 </html>

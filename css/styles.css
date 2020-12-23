@@ -14,10 +14,7 @@
     line-height: 1.15;
     font-size: 4rem;
 }
- .boxTitle {
-    text-align: center;
 
- }
   
   /* Style the header */
   .header {
@@ -157,3 +154,7 @@ a:link {
     color: #54cbe0;
     font-size: 110%;
 }
+.boxTitle {
+    text-align: center;
+    line-height: 1.15;
+ }

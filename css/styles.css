@@ -60,6 +60,8 @@
   }
   .column ul li {
     font-size: 130%;
+    margin-left: 0;
+
 }
 
   .column p {

@@ -163,6 +163,7 @@
               
             </table>
           </td>
+          </tr>
           <td>
             <table class="skill-col-2">
             <tr class="skill-row">

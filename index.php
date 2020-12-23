@@ -22,7 +22,7 @@ testando descrição.
 <div class="grid skills">
 
   <div class="column">
-    <p class="blue">Linguagens</p>
+    <p class="blue">LINGUAGENS</p>
     <ul>
     <li>PHP</li>
     <li>C#</li>
@@ -33,8 +33,11 @@ testando descrição.
   </div>
   
   <div class="column">
-    <h2>Column</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet pretium urna. Vivamus venenatis velit nec neque ultricies, eget elementum magna tristique. Quisque vehicula, risus eget aliquam placerat, purus leo tincidunt eros, eget luctus quam orci in velit. Praesent scelerisque tortor sed accumsan convallis.</p>
+  <p class="blue">Infraestrutura</p>
+  <ul>
+    <li>Docker</li>
+    <li>Google Servers</li>
+</ul>
   </div>
   
   <div class="column">

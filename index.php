@@ -84,11 +84,11 @@ Eu sou autodidata. Moro no Rio de janeiro, Brasil. Fui introduzido ao mundo da p
 
   <div class="column">
     <p class="blue">Redes sociais</p>
-    <p>
-Github
-Facebook
-Linkedin
-</p>
+    <ul>
+<li>Github</li>
+<li>Github</li>
+<li>Github</li>
+</ul>
 </div>
   
 

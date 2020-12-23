@@ -29,7 +29,12 @@ if(isset($_SESSION['lang'])){
 
 </head>
 <body>
-
+<form method='get' action='' id='form_lang' >
+   Select Language : <select name='lang' onchange='changeLang();' >
+   <option value='en' <?php if(isset($_SESSION['lang']) && $_SESSION['lang'] == 'en'){ echo "selected"; } ?> >English</option>
+   <option value='pl' <?php if(isset($_SESSION['lang']) && $_SESSION['lang'] == 'pl'){ echo "selected"; } ?> >Polish</option>
+  </select>
+ </form>
 <div class="header">
   <h1 class="title">Roberto <span class="sobrenome"> Paes </span></h1>
   <h4 class="blue">Um desenvolvedor aspirante.</h4>

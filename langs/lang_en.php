@@ -13,7 +13,7 @@ define("LANGUAGE", "Language");
 
 define ("COLUMN_ENERGY_RESPONSE", "The energy that moves me is my fascination with solving increasingly interesting problems. My curiosity for the answer always takes me out of inertia.
 ");
-define ("COLUMN_COMMUNICATION_RESPONSE", "I understand the fundamental role of communication in the development of softaware. And I will do my best to meet the demands requested judiciously.
+define ("COLUMN_COMMUNICATION_RESPONSE", "I understand the fundamental role of communication in the development of software. And I will do my best to meet the demands requested judiciously.
 ");
 define ("COLUMN_COUCH_RESPONSE", "I'm always willing to listen. Being a developer means reinventing yourself whenever necessary. This includes always being willing to learn something new.
 ");

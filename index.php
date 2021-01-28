@@ -87,7 +87,7 @@ if(isset($_SESSION['lang'])){
   <p class="blue boxTitle"><?= COLUMN_INFRA ?></p>
   <ul>
     <li>Docker</li>
-    <li>Google Servers</li>
+    <li>Google Cloud</li>
 </ul>
   </div>
   

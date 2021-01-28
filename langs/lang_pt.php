@@ -1,6 +1,6 @@
 <?php
 
-define("_DESCRIPTION", "Eu sou autodidata. Moro no Rio de janeiro, Brasil. fsdf Fui introduzido ao mundo da programação em 2012, através do Minecraft e o seu glorioso mundo de blocos.");
+define("_DESCRIPTION", "Eu sou autodidata. Moro no Rio de janeiro, Brasil. <br> Fui introduzido ao mundo da programação em 2012, através do Minecraft e o seu glorioso mundo de blocos.");
 define("_TITLE_MESSAGE", "Um desenvolvedor aspirante");
 define("COLUMN_LANGUAGES", "LINGUAGENS");
 define("COLUMN_INFRA", "INFRAESTRUTURA");

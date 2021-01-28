@@ -1,6 +1,6 @@
 <?php
 
-define ("_DESCRIPTION", "I am self-taught. I live in Rio de Janeiro, Brazil. I was introduced to the world of programming in 2012, through Minecraft and its glorious world of blocks.");
+define ("_DESCRIPTION", "I am self-taught. I live in Rio de Janeiro, Brazil. <br> I was introduced to the world of programming in 2012, through Minecraft and its glorious world of blocks.");
 define ("_TITLE_MESSAGE", "An aspiring developer");
 define ("COLUMN_LANGUAGES", "LANGUAGES");
 define ("COLUMN_INFRA", "INFRASTRUCTURE");

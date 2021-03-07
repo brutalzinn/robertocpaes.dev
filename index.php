@@ -35,9 +35,12 @@ if(isset($_SESSION['lang'])){
 <html lang="pt">
 <head>
 <title>Roberto Paes - portfólio</title>
-<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
 
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="UTF-8">
+  <meta name="description" content="Portfólio de Roberto Carneiro Paes">
+  <meta name="keywords" content="roberto carneiro paes, roberto paes, roberto,roberto developer,robertocpaes">
+  <meta name="author" content="Roberto Carneiro Paes">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <link rel="stylesheet" href="css/styles.css">
